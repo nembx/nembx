@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 This is nembx
 
 <!--
 **nembx/nembx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://github-readme-stats.vercel.app/api?username=nembxe&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nembx&layout=compact&theme=tokyonight)
