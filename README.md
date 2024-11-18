@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=JUST+A+CODER)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=WANT+TO+BE+A+CODER)
 
 ![](https://github-readme-stats.vercel.app/api?username=nembx&show_icons=true&theme=transparent)
 
