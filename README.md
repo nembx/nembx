@@ -1,6 +1,5 @@
 ## Hi there 👋 I'm nembx
 
-24岁，是前辈
 <!--
 **nembx/nembx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
